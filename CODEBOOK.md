@@ -23,3 +23,5 @@ Modified from the features_info.txt from the original dataset for tidy.txt
 ## Modifiers
     mean(): Mean value
     std(): Standard deviation
+    meanFreq(): Weighted average of the frequency components to obtain a mean frequency
+    angle(): Angle between to vectors.
