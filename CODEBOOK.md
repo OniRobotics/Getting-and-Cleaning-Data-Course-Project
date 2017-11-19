@@ -1,3 +1,4 @@
+From the features_info.txt from the original dataset
 # Measurements
   Variables with XYZ represent signals that were measured in the X, Y, and Z directions
   
