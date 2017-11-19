@@ -1,21 +1,21 @@
-#Measurements
-tBodyAcc-XYZ
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMagasd
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+# Measurements
+  tBodyAcc-XYZ
+  tGravityAcc-XYZ
+  tBodyAccJerk-XYZ
+  tBodyGyro-XYZ
+  tBodyGyroJerk-XYZ
+  tBodyAccMag
+  tGravityAccMag
+  tBodyAccJerkMag
+  tBodyGyroMag
+  tBodyGyroJerkMag
+  fBodyAcc-XYZ
+  fBodyAccJerk-XYZ
+  fBodyGyro-XYZ
+  fBodyAccMagasd
+  fBodyAccJerkMag
+  fBodyGyroMag
+  fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
 
@@ -25,7 +25,7 @@ mad(): Median absolute deviation
 max(): Largest value in array
 min(): Smallest value in array
 sma(): Signal magnitude area
-energy(): Energy measure. Sum of the squares divided by the number of values. 
+energy(): Energy measure. Sum of the squares divided by the number of values.
 iqr(): Interquartile range 
 entropy(): Signal entropy
 arCoeff(): Autorregresion coefficients with Burg order equal to 4
